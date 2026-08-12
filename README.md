@@ -218,6 +218,12 @@ Drives Extreme Fire in California's Non-Forested Ecosystems"* (McNorton et al., 
 *Global Change Biology*), which underpins the hydroclimatic-rebound mechanism referenced
 in Section 1 above.
 
+The primary dataset used in the McNorton reanalysis is hosted on Zenodo:
+["Hydroclimatic Rebound Drives Extreme Fire in California's Non-Forested
+  Ecosystems"](https://zenodo.org/records/16950724)
+
+To run the pipeline locally, download the CSV files from the Zenodo record and place
+it inside the `data/raw/` directory.
 **Plotting code for the figures:**
 
 - `PLOT_FIG2.py`
