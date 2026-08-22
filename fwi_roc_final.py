@@ -1,6 +1,6 @@
 """
 FWI ROC/AUC Analysis — CEMS EWDS + EM-DAT North America
-Maya Lopansri, King's College London, 2026
+Author: Maya Lopansri, King's College London
 
 - CEMS variable names: fwinx, ffmcode, dufmcode, drtcode, infsinx, fbupinx
 - CEMS longitude is 0-360 system (220-300), so EM-DAT lons must be +360 converted
