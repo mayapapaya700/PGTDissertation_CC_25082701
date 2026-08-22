@@ -2,9 +2,7 @@ This repository is submitted as part of a MSc degree in Climate Change: Environm
 
 # How Well Does the FWI Discriminate Historical Wildfire-Induced Insured Losses — Fire-Regime Subgroups, Lag Test & Pipeline Reference
 
-*Consolidated working reference. Ecoregion grouping is based on physical CEC Level I
-classification plus the EM-DAT subtype field. The Australian Fire Danger Rating System
-is used only as an interpretive comparison — it is NOT used to reclassify any data.*
+*Ecoregion grouping is based on physical CEC Level I classification.*
 
 ---
 
