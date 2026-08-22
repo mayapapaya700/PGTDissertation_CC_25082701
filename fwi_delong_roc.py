@@ -1,9 +1,7 @@
 """
 fwi_delong_roc.py
-=================
+------------------
 Companion module to `fwi_roc_auc_emdat_cems.py`.
-Author: Maya Lopansri
-
 """
 
 from __future__ import annotations
