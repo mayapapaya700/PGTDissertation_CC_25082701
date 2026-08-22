@@ -1,12 +1,10 @@
 """
-ROC/AUC Analysis: FWI Variables as Predictors of Wildfire-Induced Loss
-Datasets: EM-DAT North America Wildfires (USA + Canada, 2000-2026); CEMS 
-Fire Danger Reanalysis (Canadian FWI System components, ECMWF/Copernicus)
-Author: Maya Lopansri - MSc Climate Change, King's College London
-
+ROC/AUC Analysis: FWI Variables as Predictors of Wildfire-Induced Loss Datasets: 
+EM-DAT North America Wildfires (USA + Canada, 2000-2026),
+CEMS Fire Danger Reanalysis (Canadian FWI System components, ECMWF/Copernicus)
+----------------------------------------------------------------------------------
 Builds on fwi_roc_auc_emdat.py, replacing the synthetic FWI stub with a real
 merge against the CEMS NetCDF archive under data/cems_fwi_downloads/.
-
 """
 
 # -- 0. Imports --------------------------------------------------------------
