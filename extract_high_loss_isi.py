@@ -1,10 +1,8 @@
 """
 extract_high_loss_isi.py
-
+-------------------------
 Run this from the same folder as fwi_roc_auc_emdat_cems.py to pull real
 per-event FWI-system values for the 15 high-loss events.
-
-Author: Maya Lopansri, King's College London
 """
 
 import sys
